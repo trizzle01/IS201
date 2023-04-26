@@ -1,0 +1,35 @@
+
+p{font-weight: bold; font-size:18px;
+}
+div{color: black; }
+div{padding: center;}
+div{font-family: 'Times New Roman', Times, serif;}
+
+#top {text-decoration: underline;}
+
+.emphasizetext{ font-style:normal; color: black;}
+
+body{background-color:gainsboro}
+
+body{font-family:'Times New Roman', Times, serif
+}
+body {border: 10px solid black;
+margin: 20px;
+padding: 20px;
+text-align: center;}
+
+ol{list-style-position: inside;}
+
+ul{list-style-position: inside;}
+.antioch{
+    margin-left: -110px;
+}
+
+.bethel{margin-left: -70px;}
+.ramon {margin-left: -20px;}
+.fam {margin-left: 125px;}
+.ball{margin-left: -45px;}
+.boat{margin-left:-60px;}
+.surf{margin-left: -62px;}
+.para{margin-left: -90px;}
+
